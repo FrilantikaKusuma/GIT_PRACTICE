@@ -2,7 +2,9 @@ Tea menu:
 
 - Earl Grey Tea
 - Chamomile Tea
-- Gojiberry Tea
+- Goji Berry Tea
 - Jasmine Tea
-- American Tea
+- American Breakfast Tea
 - Green Tea
+- Oolong Tea
+- Black Tea
