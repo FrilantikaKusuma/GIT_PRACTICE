@@ -1,0 +1,8 @@
+Tea menu:
+
+- Earl Grey Tea
+- Chamomile Tea
+- Gojiberry Tea
+- Jasmine Tea
+- American Tea
+- Green Tea
