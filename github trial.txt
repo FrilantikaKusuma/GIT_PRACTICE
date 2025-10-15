@@ -1,9 +1,0 @@
-Coffee Menu :
-
-- Americano
-- Espresso
-- Caramel Macchiatto
-- Cafe Latte
-- Vanilla Latte
-- Moccachino
-- Cappucino
